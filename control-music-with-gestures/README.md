@@ -21,8 +21,8 @@ pip install opencv-python mediapipe pyautogui numpy
 ## Usage
 1) Clone the repository:
 ```bash
-git clone https://github.com/bl4ze4447/computer-vision/control-music-with-gestures.git
-cd control-music-with-gestures
+git clone https://github.com/bl4ze4447/computer-vision.git
+cd computer-vision/control-music-with-gestures
 ```
 
 2) Choose input source:
