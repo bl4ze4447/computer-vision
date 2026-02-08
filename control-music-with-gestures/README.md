@@ -1,4 +1,4 @@
-# Hand Gesture Media Controller
+# Control music with gestures
 A computer vision Python application that allows you to control audio (Play/Pause) using an Open Palm gesture (cool).
 The script uses Google MediaPipe for real-time hand tracking and PyAutoGUI to simulate system media keys. 
 The core logic detects an "Open Palm" gesture by analyzing finger angles and knuckle alignment to trigger the play/pause state.
