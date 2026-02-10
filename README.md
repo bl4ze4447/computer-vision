@@ -40,8 +40,7 @@ cd computer-vision
 ```
 Navigate to a project: Choose the project you want to try and navigate to its directory:
 
-```
-Bash
+```Bash
 # Example: To try the cursor controller
 cd control-cursor-with-gestures
 ```
